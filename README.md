@@ -1,4 +1,4 @@
-<img src='https://www.canva.com/design/DAFQORCqaZ4/isK7Q_OpoKYW8QZs8MRPxg/view?utm_content=DAFQORCqaZ4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' alt="banner"></img>
+<img src='https://github.com/satyamksharma/my_personal_site/blob/main/images/SATYAM%20KUMAR%20(1).png' alt="banner"></img>
 <hr></hr>
 
 # <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50">Hi there...I'm <a href = "https://linkedin.com/in/satyamksharma">Satyam Kumar</a>

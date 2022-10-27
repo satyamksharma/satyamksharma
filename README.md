@@ -17,7 +17,7 @@ I also like to contribute to open scouce and solving real world problems.
  <li>📍I'm from Ranchi, Jharkhand and currently settled in Banglore.</li>
  <li>😁My Hobbies include reading books and playing video games.</li>
  <li>⛹️‍♂️I like playing Badminton, Football and Volleyball.</li>
- <li>🏍I also love to travel and try new foods from laces.</li>
+ <li>🏍I also love to travel and try new foods from places.</li>
  <li>💻Currently i'm learning Front End technologies.</li>
 </ul>
 <hr></hr>

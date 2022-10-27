@@ -1,7 +1,7 @@
 <img src='https://github.com/satyamksharma/my_personal_site/blob/main/images/SATYAM%20KUMAR%20(1).png' alt="banner"></img>
 <hr></hr>
 
-# <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50">Hi there...I'm <a href = "https://linkedin.com/in/satyamksharma">Satyam Kumar</a>
+<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50">Hi there...I'm <a href = "https://linkedin.com/in/satyamksharma">Satyam Kumar</a></h1>
 
 
 

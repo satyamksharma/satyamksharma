@@ -1,4 +1,4 @@
-#                                                   Hi, It's Satyam. Great to see you here 👋. 
+#                                                   Hi there, It's Satyam. Nice to see You👋. 
 
 <!--
 **satyamksharma/satyamksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

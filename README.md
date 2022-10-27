@@ -12,6 +12,15 @@ I also like to contribute to open scouce and solving real world problems.
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="280">
 
 <hr></hr>
+<h3>A Little about me....</h3>
+<ul>
+ <li>📍I'm from Ranchi, Jharkhand and currently settled in Banglore.</li>
+ <li>😁My Hobbies include reading books and playing video games.</li>
+ <li>⛹️‍♂️I like playing Badminton, Football and Volleyball.</li>
+ <li>🏍I also love to travel and try new foods from laces.</li>
+ <li>💻Currently i'm learning Front End technologies.</li>
+</ul>
+<hr></hr>
 
 ## 📬 Connect with me
 Feel Free to message me. I' always available to help you and connect with you😃<br>
@@ -55,3 +64,9 @@ Feel Free to message me. I' always available to help you and connect with you�
 </p>
 
 <hr></hr>
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=satyamksharma&show_icons=true&theme=tokyonight" 
+/>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamksharma&layout=compact)](https://github.com/satyamksharma/github-readme-stats)

@@ -69,4 +69,3 @@ Feel Free to message me. I' always available to help you and connect with youðŸ˜
    src="https://github-readme-stats.vercel.app/api?username=satyamksharma&show_icons=true&theme=tokyonight" 
 />
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamksharma&layout=compact)](https://github.com/satyamksharma/github-readme-stats)

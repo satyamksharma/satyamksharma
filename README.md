@@ -22,51 +22,25 @@ I also like to contribute to open scouce and solving real world problems.
 </ul>
 <hr></hr>
 
-## 📬 Connect with me
+## 🌐 Connect with me
 Feel Free to message me. I' always available to help you and connect with you😃<br>
 <a href = "mailto:ksatyam433@gmail.com">Email me</a> for important querries. <br>
-<p align = "justify">
- <a href = "https://www.linkedin.com/in/satyamksharma/"><img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height = 40 width = 40/>&nbsp&nbsp&nbsp&nbsp</a>
- <a href = "https://www.facebook.com/Satyamkumar9980/"><img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" height = 40 width = 40/>&nbsp&nbsp&nbsp&nbsp</a>
- <a href = "https://instagram.com/satyaa___/"><img src = "https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" height = 40 width = 40/>&nbsp&nbsp&nbsp&nbsp</a>
- <a href = "https://t.me/satya_2331"><img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" height = 40 width = 40/>&nbsp&nbsp&nbsp&nbsp</a>
- <a href = "https://discordapp.com/Satya#6932"><img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" height = 40 width = 40/>&nbsp&nbsp&nbsp&nbsp</a>
- <a href = "https://twitter.com/SatyamK51033858"><img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" height = 40 width = 40/>&nbsp&nbsp&nbsp&nbsp</a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Satya#6932) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Satyamkumar9980) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyaa___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamksharma) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SatyamK51033858) 
 
-<hr></hr>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=satyamksharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=satyamksharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamksharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ⚡ Languages and Developer Tools I use.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=satyamksharma&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="justify">
- <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="java" height = 40, width = 40/>&nbsp&nbsp&nbsp
- <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="c++" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/python/python-original.svg" alt="python" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/html5/html5-original.svg" alt="html-5" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="js" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs-code" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" height = 36, width = 36/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android-studio" height = 36, width = 36/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/expressjs.png" alt="expressjs" height = 36, width = 36/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height = 34, width = 30/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/git/git-original.svg" alt="git" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="bootstrap" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://img.icons8.com/3d-fluency/100/000000/github.png" alt="github" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" height = 37, width = 37/>&nbsp&nbsp&nbsp
- <img src="https://github.com/satyamksharma/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" height = 32, width = 32/>&nbsp&nbsp&nbsp
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="37" height="29"/>&nbsp&nbsp&nbsp
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr></hr>
+---
+[![](https://visitcount.itsvg.in/api?id=satyamksharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=satyamksharma&show_icons=true&theme=tokyonight" 
-/>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamksharma&layout=compact)](https://github.com/satyamksharma/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

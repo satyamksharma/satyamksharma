@@ -32,6 +32,11 @@ Feel Free to message me. I' always available to help you and connect with youðŸ˜
 
 
 # ðŸ“Š GitHub Stats:
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=satyamksharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=satyamksharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamksharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=satyamksharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satyamksharma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamksharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

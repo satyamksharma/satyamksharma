@@ -14,7 +14,7 @@ I also like to contribute to open scouce and solving real world problems.
 <hr></hr>
 <h3>A Little about me....</h3>
 <ul>
- <li>📍I'm from Ranchi, Jharkhand and currently settled in Banglore.</li>
+ <li>📍I'm from Ranchi, Jharkhand and currently settled in Bangalore.</li>
  <li>😁My Hobbies include reading books and playing video games.</li>
  <li>⛹️‍♂️I like playing Badminton, Cricket and Volleyball.</li>
  <li>🏍I also love to travel and try new foods from places.</li>

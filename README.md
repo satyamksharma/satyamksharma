@@ -1,4 +1,4 @@
-
+<img src="https://github.com/satyamksharma/my-pics/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=true">
 <h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50">Hi there...I'm <a href = "https://linkedin.com/in/satyamksharma">Satyam Kumar</a></h1>
 
 

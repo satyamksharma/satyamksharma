@@ -16,12 +16,12 @@ I also like to contribute to open scouce and solving real world problems.
  <li>😁My Hobbies include reading books and playing video games.</li>
  <li>⛹️‍♂️I like playing Badminton, Cricket and Volleyball.</li>
  <li>🏍I also love to travel and try new foods from places.</li>
- <li>💻Currently i'm learning Front End technologies.</li>
+ <li>💻Currently i'm learning DevOps</li>
 </ul>
 <hr></hr>
 
 ## 🌐 Connect with me
-Feel Free to message me. I' always available to help you and connect with you😃<br>
+Feel Free to message me. I'm always available to help you and connect with you😃<br>
 <a href = "mailto:ksatyam433@gmail.com">Email me</a> for important querries. <br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Satya#6932) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Satyamkumar9980) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyaa___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamksharma) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SatyamK51033858) 
 

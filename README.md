@@ -42,7 +42,8 @@ Feel Free to message me. I'm always available to help you and connect with youðŸ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![@satyamksharma's Holopin board](https://holopin.me/satyamksharma)](https://holopin.io/@satyamksharma)
+[![An image of @satyamksharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamksharma)](https://holopin.io/@satyamksharma)
+
 
 ---
 <img src="https://img1.niftyimages.com/4gph/ujmr/0hbi?name=Satyam%20Kumar">

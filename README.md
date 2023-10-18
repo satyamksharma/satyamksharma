@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/satyamksharma/my-pics/main/Banner-7.png?token=GHSAT0AAAAAACHQRDAMVLLOKPEK2XBSKL6KZIUNXNQ">
+<img src="https://drive.google.com/uc?export=view&id=1TSuJrNsfkRVGErFUQacdQjEhbyDEX3Jv">
 <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50"><h1>Hi there...I'm <a href = "https://linkedin.com/in/satyamksharma">Satyam Kumar</a></h1>
 
 

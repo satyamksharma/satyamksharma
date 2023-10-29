@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1TSuJrNsfkRVGErFUQacdQjEhbyDEX3Jv">
 <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50"><h1>Hi there...I'm <a href = "https://www.satyamksharma.tech/">Satyam Kumar</a></h1>
 
@@ -7,8 +8,16 @@
 I love programming and solving real world problems. I like to dive in different domains of computer science and passionate about building a great career.<br>
 I also like to contribute to open scouce and solving real world problems.
 
-<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="280">
+<br/>
 
+<!--Snake Contribution Graph-->    
+    
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
+    
+<br/>
+
+<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="280">
+<div align="start">
 <hr></hr>
 <h3>A Little about me....</h3>
 <ul>
